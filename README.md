@@ -1,4 +1,4 @@
-# Finding Genes from DNA
+# Finding Genes from DNA 🧬
 
 This project I made during my Course on Coursera.
 It basically find all the Genes from DNA with
